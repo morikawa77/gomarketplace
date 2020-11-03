@@ -45,7 +45,7 @@ Tip: To calculate the total of all items, you can use reduce to add up all the v
 
 
 ### ✏️ Layout
-<img alt="GoStack" src=".github/header-desafios-new.png" style="width: 100%;"/>
+<img alt="GoStack" src=".github/gomarketplace.png" style="width: 100%;"/>
 <a href="https://www.figma.com/file/k448yiICuSJCPoEIWMowlI/GoMarketplace?node-id=0%3A1">Layout no Figma</a>
 
 
